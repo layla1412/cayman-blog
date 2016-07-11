@@ -9,7 +9,7 @@
 title: 文茵
 description: '' # 属于我的文字小世界
 baseurl: '' # the subpath of your site, wenyin /blog
-url: '' # the base hostname & protocol for your site http://www.wenyin.com
+url: '' # the base hostname & protocol for your site https://username.github.com/jekyll_wenyin/
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
 
