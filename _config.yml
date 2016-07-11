@@ -8,7 +8,7 @@
 # Site settings
 title: 文茵
 description: '' # 属于我的文字小世界
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, wenyin /blog
 url: '' # the base hostname & protocol for your site http://www.wenyin.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'twitter_username'
